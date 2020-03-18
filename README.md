@@ -3,9 +3,9 @@
 Appcoin P2P
 =======
 
-[![NPM Package](https://img.shields.io/npm/v/litecore-p2p.svg?style=flat-square)](https://www.npmjs.org/package/litecore-p2p)
-[![Build Status](https://img.shields.io/travis/litecoin-project/litecore-p2p.svg?branch=master&style=flat-square)](https://travis-ci.org/appcoin/p-p)
-[![Coverage Status](https://img.shields.io/coveralls/litecoin-project/litecore-p2p.svg?style=flat-square)](https://coveralls.io/r/appcoin/p-p?branch=master)
+[![NPM Package](https://img.shields.io/npm/v/litecore-p2p.svg?style=flat-square)](https://www.npmjs.org/package/appcoin/p-p)
+[![Build Status](https://img.shields.io/travis/appcoin/p-p.svg?branch=master&style=flat-square)](https://travis-ci.org/appcoin/p-p)
+[![Coverage Status](https://img.shields.io/coveralls/appcoin/p-p.svg?style=flat-square)](https://coveralls.io/r/appcoin/p-p?branch=master)
 
 `litecore-p2p` adds [Litecoin protocol](https://en.bitcoin.it/wiki/Protocol_documentation) support for appcoin.
 
