@@ -9,17 +9,17 @@ Appcoin P2P
 
 `litecore-p2p` adds [Litecoin protocol](https://en.bitcoin.it/wiki/Protocol_documentation) support for Litecore.
 
-See [the main litecore repo](https://github.com/litecoin-project/litecore) for more information.
+See [the main appcoin repo](https://github.com/appcoin/base) for more information.
 
 ## Getting Started
 
 ```sh
-npm install litecore-p2p
+npm install appoint/p-p
 ```
-In order to connect to the Litecoin network, you'll need to know the IP address of at least one node of the network, or use [Pool](/docs/pool.md) to discover peers using a DNS seed.
+In order to connect to the Appcoin network, you'll need to know the IP address of at least one node of the network, or use [Pool](/docs/pool.md) to discover peers using a DNS seed.
 
 ```javascript
-var Peer = require('litecore-p2p').Peer;
+var Peer = require('appcoin/p-p').Peer;
 
 var peer = new Peer({host: '127.0.0.1'});
 
